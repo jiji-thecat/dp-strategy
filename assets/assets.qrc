@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>gyudon1.png</file>
+        <file>gyudon2.png</file>
+    </qresource>
+</RCC>
