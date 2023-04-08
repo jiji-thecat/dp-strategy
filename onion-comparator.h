@@ -1,9 +1,10 @@
 #ifndef ONIONCOMPARATOR_H
 #define ONIONCOMPARATOR_H
 
+#include "comparator.h"
 #include "gyudon.h"
 
-class OnionComparator
+class OnionComparator : public Comparator
 {
 public:
     OnionComparator();

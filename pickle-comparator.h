@@ -1,9 +1,10 @@
 #ifndef PICKLECOMPARATOR_H
 #define PICKLECOMPARATOR_H
 
+#include "comparator.h"
 #include "gyudon.h"
 
-class PickleComparator
+class PickleComparator : Comparator
 {
 public:
     PickleComparator();

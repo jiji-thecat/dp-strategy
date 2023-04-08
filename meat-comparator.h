@@ -1,9 +1,10 @@
 #ifndef MEATCOMPARATOR_H
 #define MEATCOMPARATOR_H
 
+#include "comparator.h"
 #include "gyudon.h"
 
-class MeatComparator
+class MeatComparator : public Comparator
 {
 public:
     MeatComparator();
